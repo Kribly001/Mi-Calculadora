@@ -54,7 +54,7 @@ button:focus {
 
 footer p {
     text-align: center;
-  font-weight:bold;
+    font-weight: bold;
 }
 
 .display {
@@ -79,5 +79,5 @@ footer p {
 
 #valor__anterior {
     font-size: 2.0em;
-    color:rgb(31, 54, 9) ;
+    color: rgb(31, 54, 9);
 }
